@@ -1,4 +1,4 @@
-//Add Input tag in signup
+//Add Input tag in signups
 
 var x=0;
     function toggleDetails() {
